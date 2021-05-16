@@ -57,6 +57,9 @@ header{
     align-items: center;
     justify-content: space-between;
 }
+header{
+ width:90%;   
+}    
 header .logo img{
    height: 5rem;
 
