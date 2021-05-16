@@ -255,7 +255,7 @@ header #menu-bar{
 .about .image{
     flex: 1 1 40rem;
     height: 50rem;
-    background: url(img/about-frame-img.png), url(img/about-img.jpg);
+    background:url(img/about.jpg);
     background-size: cover;
     background-position: center;
     background-blend-mode: screen;
