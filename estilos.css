@@ -12,6 +12,8 @@
     border: none;
     text-transform: capitalize;
     transition: all .2s linear;
+    
+    
 }
 h1,h3{
     font-family: 'Oswald', sans-serif;
@@ -101,12 +103,13 @@ header #menu-bar{
 
     html{
         font-size: 55%;
-    }
-  
-       header #menu-bar{
         
+    }
+    header #menu-bar{
+        top: 30%;
+        right: 120px;
         display:block;
-       
+        position: absolute;
     }
     header .navbar{
         position: fixed;
@@ -114,10 +117,13 @@ header #menu-bar{
         background: var(--yellow);
         border-top: .2rem solid rgba(0,0,0,.1);
         width: 100%;
+        
      
         
 
     }
+    
+
     header .navbar ul{
         flex-flow:column ;
         padding: 2rem;
