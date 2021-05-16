@@ -92,7 +92,7 @@ header #menu-bar{
     
     html{
         font-size: 55%;
-        overflow-x: hidden;
+        
     }
     .home::before,
     .home::after{
@@ -105,7 +105,7 @@ header #menu-bar{
 
     html{
         font-size: 55%;
-        overflow-x: hidden;
+        
         
     }
     header #menu-bar{
@@ -170,7 +170,7 @@ header #menu-bar{
     
     html{
         font-size: 50%;
-        overflow-x: hidden;
+        
     }
     section{
         padding:1rem 5% ;
